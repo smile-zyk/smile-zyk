@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smile-zyk
 - 👀 I’m interested in code\game\eat\sleep
-- 🌱 I’m currently learning computer system
+- 🌱 I’m currently learning computer graphics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
